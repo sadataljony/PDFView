@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnWebView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_in_webview" />
+
+    <Button
+        android:id="@+id/btnAssets"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_form_assets" />
+
+    <Button
+        android:id="@+id/btnStorage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_from_storage" />
+
+    <Button
+        android:id="@+id/btnInternet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_from_internet" />
+
+</LinearLayout>
