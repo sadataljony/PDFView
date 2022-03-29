@@ -1,0 +1,21 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+>
+app/.gitignore,5/1/51e1c5d383dfaa35e0e7e5873a0a99355a86880f
+F
+app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+É
+Sapp/src/main/java/com/sadataljony/app/android/pdfview/PdfViewFromStorageActivity.kt,f/e/feb90f01452f188c8b36e3b350f46bee95411696
+Ç
+Rapp/src/main/java/com/sadataljony/app/android/pdfview/PdfViewFromAssetsActivity.kt,6/3/63e1bfa1f2388fd4eaea3f48ba46b23dacdcc0cd
+u
+Eapp/src/main/java/com/sadataljony/app/android/pdfview/MainActivity.kt,b/f/bfa695cb35458f74aa588ee71704f616af8b92be
+Å
+Qapp/src/main/java/com/sadataljony/app/android/pdfview/PdfViewInWebViewActivity.kt,5/f/5f26acfc8f3fa8cdf2a3daaf6972f5342561bdc7
+Ñ
+Tapp/src/main/java/com/sadataljony/app/android/pdfview/PdfViewFromInternetActivity.kt,9/6/96c4656ec839dcf852e81e0e80d53ab7abaa51a3
